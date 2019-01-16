@@ -1,0 +1,10 @@
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab06\Lab6\obj\Debug\netcoreapp2.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab06\Lab6\obj\Debug\netcoreapp2.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab06\Lab6\obj\Debug\netcoreapp2.0\Lab6.AssemblyInfo.cs
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab06\Lab6\bin\Debug\netcoreapp2.0\Lab6.deps.json
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab06\Lab6\bin\Debug\netcoreapp2.0\Lab6.runtimeconfig.json
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab06\Lab6\bin\Debug\netcoreapp2.0\Lab6.runtimeconfig.dev.json
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab06\Lab6\bin\Debug\netcoreapp2.0\Lab6.dll
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab06\Lab6\bin\Debug\netcoreapp2.0\Lab6.pdb
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab06\Lab6\obj\Debug\netcoreapp2.0\Lab6.dll
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab06\Lab6\obj\Debug\netcoreapp2.0\Lab6.pdb

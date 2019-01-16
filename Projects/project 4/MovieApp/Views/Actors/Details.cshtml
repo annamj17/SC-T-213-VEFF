@@ -1,0 +1,14 @@
+@model MovieApp.Models.ViewModels.ActorDetailsViewModel
+    <div>
+        <br/>
+        Name: @Model.Name <br/>
+        Age: @Model.Age <br/>
+        <ul>
+              @foreach(var movie in Model.Movies)
+              {
+                  <li>
+                        Title: <a asp-controller="Movies" asp-action="Details" asp-route-id="@movie.Id">@movie.Title</a><br/>
+                  </li>
+              }
+        </ul>
+    </div>

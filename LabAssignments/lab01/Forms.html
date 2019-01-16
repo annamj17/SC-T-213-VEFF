@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Forms</title>
+</head>
+<body>
+  <form action="example.com/register" method="get">
+    <fieldset>
+      <legend>Personal</legend>
+      <label for="name-input">Name:</label><br/>
+      <input type="text" id="name-input" name="name"/><br/>
+      <br/>
+      <label for="ssn-input">SSN:</label><br/>
+      <input type="text" id="ssn-input" name="ssn"/><br/>
+      <br/>
+      <label for="email-input">Email:</label><br/>
+      <input type="email" id="email-input" name="email"/><br/>
+      <br/>
+      <label for="password-input">Password:</label><br/>
+      <input type="password" id="password-input" name="password"/><br/>
+    </fieldset>
+    <fieldset>
+      <legend>Details</legend>
+      <p>Gender:</p>
+      <label for="kvk">KVK</label>
+      <input id="kvk" type="radio" value="female" name="whatisyourgender" />
+      <label for="kk">KK</label>
+      <input id="kk" type="radio" value="male" name="whatisyourgender" />
+      <br/>
+      <p>Do you smoke?</p>
+      <label for="yes">Yes</label>
+      <input id="yes" type="checkbox" value="yes" name="doyousmoke" />
+      <label for="no">No</label>
+      <input id="no" type="checkbox" value="no" name="doyousmoke" />
+      <br/>
+      <p>Department in RU?</p>
+      <label for="department-dropdown">Select a department</label>
+      <select name="country" id="department-dropdown">
+        <option value="Law">Law</option>
+        <option value="Business">Business</option>
+        <option value="Computer Science">Computer Science</option>
+        <option value="Science and engineering">Science and engineering</option>
+      </select>
+    </fieldset>
+    <fieldset>
+      <legend>About me</legend>
+      <textarea rows="6" cols="80" name="review" id="review-text-area">Your text here...</textarea>
+    </fieldset>
+    <input type="submit" value="Submit form">
+  </form>
+</body>
+</html>

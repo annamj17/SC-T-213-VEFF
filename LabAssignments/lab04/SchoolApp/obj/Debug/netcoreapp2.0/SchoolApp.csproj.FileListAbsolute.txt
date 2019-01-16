@@ -1,0 +1,10 @@
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\SchoolApp\obj\Debug\netcoreapp2.0\SchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\SchoolApp\obj\Debug\netcoreapp2.0\SchoolApp.AssemblyInfoInputs.cache
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\SchoolApp\obj\Debug\netcoreapp2.0\SchoolApp.AssemblyInfo.cs
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\SchoolApp\bin\Debug\netcoreapp2.0\SchoolApp.deps.json
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\SchoolApp\bin\Debug\netcoreapp2.0\SchoolApp.runtimeconfig.json
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\SchoolApp\bin\Debug\netcoreapp2.0\SchoolApp.runtimeconfig.dev.json
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\SchoolApp\bin\Debug\netcoreapp2.0\SchoolApp.dll
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\SchoolApp\bin\Debug\netcoreapp2.0\SchoolApp.pdb
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\SchoolApp\obj\Debug\netcoreapp2.0\SchoolApp.dll
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\SchoolApp\obj\Debug\netcoreapp2.0\SchoolApp.pdb

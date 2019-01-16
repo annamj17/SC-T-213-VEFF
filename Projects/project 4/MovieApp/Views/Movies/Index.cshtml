@@ -1,0 +1,24 @@
+@model List<MovieApp.Models.ViewModels.MovieViewModel>
+@using (Html.BeginForm("Index", "Movies",FormMethod.Get))
+{
+    <br/>
+    <label>Search Bar</label>
+    @Html.TextBox("SearchText")
+    <form method="GET">
+        <input type="submit" value="Search" class="search-button" />
+    </form>
+}
+    <div>
+        <h1>Movies</h1>
+        <ul>
+            @foreach(var movie in Model)
+            {
+                <li>
+                    Title: <a asp-controller="Movies" asp-action="Details" asp-route-id="@movie.Id">@movie.Title</a><br/>
+                    Genre: @movie.Genre <br/>
+                    Rating: @movie.Rating <br/>
+                </li>
+            }
+        </ul>
+        <a asp-controller="Movies" asp-action="Create" class="btn btn-success">Add a movie!</a>
+    </div>

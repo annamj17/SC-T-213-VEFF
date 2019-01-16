@@ -1,0 +1,20 @@
+@model BookList.Models.Book
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Create</title>
+</head>
+<body>
+  <form method="POST">
+    <label asp-for="Title">Title</label>
+    <input type="text" asp-for="Title">
+    <label asp-for="Author">Author</label>
+    <input type="text" asp-for="Author">
+    <label asp-for="Genre">Genre</label>
+    <input type="text" asp-for="Genre">
+    <input type="submit" value="Add book!">
+  </form>
+</body>
+</html>

@@ -1,0 +1,88 @@
+INTRODUCTION TO BICYCLES
+
+1. About this book
+
+This is a textbook which teaches you the most important aspects regarding bicycles. A few common problems will be covered, and how to solve them. We will cover the following parts of a bicycle:
+
+  - wheels
+  - gears
+  - brakes
+
+2. Wheels
+
+Wheels are the most important component on a bicycle. It is essential that they are working properly, and they should preferably not weight too much, since each pound added to the weight of a wheel is more costly than pounds added to other parts of the bicycle, once it starts rotating. Let us first view a few definitions for several components of a wheel:
+
+      -	Tyre
+	The tyre is the rubber that connects you to the ground. It should not
+	provide too much resistance. The tyre pressure is very important, and
+	is different between types of tyres. 
+      -	Rim
+	The rim is usually made of aluminium, but occasionally rims are made
+	of steel. Aluminium is however much better, because it is lighter,
+	also it provides much better resistance when brake pads are applied to
+	it, particularly when they are wet.
+      -	Spokes
+	The spokes connect the hub and the rim. Usually there are 36 spokes in 
+	one wheel, sometimes 32 or even fewer. It should be noted that the fewer
+	spokes there are, the weaker the wheel gets. Most of the time spokes are
+	made of steel, in very rare cases they are made of titanium, but aluminium
+	is not strong enough to be used in spokes.
+      -	Hub
+	The hub is the central piece of the wheel. It is also usually made of
+	aluminium. The bearings are located inside the hub, and they are 
+	obviously very important. They should be properly adjusted and lubricated.
+      - Quick release
+	Wheels are usually mounted to a bicycle using a quick release pin. It
+	provides an easy way to remove the wheel in case of puncture.
+
+If you get a puncture, these are the steps necessary to repair it:
+
+  1. Release the wheel from the bicycle, either by turning the quick release pin 180 degrees, or by loosening the bolts that hold it.
+  2. Properly deflate the tyre.
+  3. Gently remove the tyre from one side of the rim. You might need special tools for this, although that shouldn't be necessary for most mountain bike tyres.
+  4. Remove the tube valve from its hole in the rim.
+  5. Remove the tube from the tyre.
+  6. Inflate the tube.
+  7. Find the hole in the tube, you might want to submerse the tube in water and look for bubbles in the water, but often it is enough just to listen.
+  8. Once the hole has been located, clean the area around it using a small piece of sandpaper.
+  9. Apply glue to the area around the hole, at least as large as the patch you will be applying to the tube.
+ 10. Wait for at least 2 minutes, or until the glue has dried slightly.
+ 11. While the glue dries, look for any sharp object that might be present inside the tyre that caused the puncture.
+ 12. Apply the patch to the tube, press firmly. 
+ 13. To avoid the tube to be glued to the tyre, put some kind of powder on the glued area (wheat, baby powder, cigarette ashes)
+ 14. Reinstall the tube into the tyre
+ 15. Remount the wheel to the bicycle.
+
+
+3. Gears
+
+3.1 Gear ratios
+
+When gear ratios are calculated, the most important factors are the number of teeth on the front and rear cogs. Below is a table of common gear ratios. The columns list common chainring teeth count, and the rows list common cassette teeth count.
+
+	28	38	48
+11	68.7	93.3	117.8
+13  	58.1	78.9	99.7
+15  	50.4	68.4	86.4
+18	42	57	72
+21	36	48.9	61.7
+24	31.5	42.7	54
+27	28	38	48
+30	23.4	34.2	43.2
+
+The data in this table is also available at http://home.i1.net/~dwolfe/gerz/.
+
+This table shows how similar various gears really are. For instance, if the chain is on the middle chainring, and the smallest sprocket on the cassette, the gear ratio is 93.3. This is very close as being on the biggest chainring and on the second smallest sprocket.
+
+
+3.2  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pretium enim sit amet ante vehicula in auctor turpis mollis. Ut sollicitudin semper lacus, vitae commodo elit dictum eget. Vivamus nec est ac eros rhoncus egestas id vel massa. Nam leo orci, ullamcorper commodo gravida nec, ullamcorper a ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus lectus mi, egestas eget placerat consectetur, congue porttitor purus. Suspendisse potenti. Praesent dictum nisi vel leo tempor gravida sed eget elit. Suspendisse potenti. Sed gravida iaculis posuere.
+
+
+4. Brakes
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pretium enim sit amet ante vehicula in auctor turpis mollis. Ut sollicitudin semper lacus, vitae commodo elit dictum eget. Vivamus nec est ac eros rhoncus egestas id vel massa. Nam leo orci, ullamcorper commodo gravida nec, ullamcorper a ligula. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus lectus mi, egestas eget placerat consectetur, congue porttitor purus. Suspendisse potenti. Praesent dictum nisi vel leo tempor gravida sed eget elit. Suspendisse potenti. Sed gravida iaculis posuere.
+
+
+
+

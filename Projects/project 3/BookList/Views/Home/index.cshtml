@@ -1,0 +1,33 @@
+@model List<BookList.Models.Book>
+
+@if(ViewBag.Title == "Book List")
+{
+    <h1>@ViewBag.Book List</h1>
+    <ul>
+      @foreach(var book in Model)
+      {
+        <li>Id: @book.Id <br/>
+           Title: <a asp-controller="Home" asp-action="Details" asp-route-id="@book.Id">@book.Title</a> <br/>
+           Author: @book.Author <br/>
+           Genre: @book.Genre
+        </li>
+          <br/>
+      }
+  </ul>
+}
+else{
+  <h2>@ViewBag.Title</h2>
+  <ul>
+  @foreach (var book in Model)
+  {
+    <li>
+      Title: @book.Title <br/>
+      Author: @book.Author <br/>
+    </li>
+    <br/>
+  }
+  </ul>
+}
+
+
+

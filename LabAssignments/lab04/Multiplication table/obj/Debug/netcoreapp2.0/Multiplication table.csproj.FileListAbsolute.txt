@@ -1,0 +1,10 @@
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\Multiplication table\bin\Debug\netcoreapp2.0\Multiplication table.deps.json
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\Multiplication table\bin\Debug\netcoreapp2.0\Multiplication table.runtimeconfig.json
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\Multiplication table\bin\Debug\netcoreapp2.0\Multiplication table.runtimeconfig.dev.json
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\Multiplication table\bin\Debug\netcoreapp2.0\Multiplication table.dll
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\Multiplication table\bin\Debug\netcoreapp2.0\Multiplication table.pdb
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\Multiplication table\obj\Debug\netcoreapp2.0\Multiplication table.csproj.CoreCompileInputs.cache
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\Multiplication table\obj\Debug\netcoreapp2.0\Multiplication table.AssemblyInfoInputs.cache
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\Multiplication table\obj\Debug\netcoreapp2.0\Multiplication table.AssemblyInfo.cs
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\Multiplication table\obj\Debug\netcoreapp2.0\Multiplication table.dll
+C:\Users\Rebekka Hulda\Desktop\HR\Vorönn 2018\Vefforitun\lab04\Multiplication table\obj\Debug\netcoreapp2.0\Multiplication table.pdb

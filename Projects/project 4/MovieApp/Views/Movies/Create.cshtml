@@ -1,0 +1,22 @@
+@model MovieApp.Models.InputModels.MovieInputModel
+<div>
+    <form method="POST">
+        <label asp-for="Title">Title:</label>
+        <span asp-validation-for="Title"></span>
+        <input type="text" asp-for="Title" class="form-control">
+
+        <label asp-for="Genre">Genre:</label>
+        <span asp-validation-for="Genre"></span>
+        <input type="text" asp-for="Genre" class="form-control">
+
+        <label asp-for="ReleaseYear">Release year:</label>
+        <span asp-validation-for="ReleaseYear"></span>
+        <input type="number" asp-for="ReleaseYear" class="form-control">
+
+        <label asp-for="Runtime">Runtime:</label>
+        <span asp-validation-for="Runtime"></span>
+        <input type="number" asp-for="Runtime" class="form-control">
+
+        <input type="submit" name="submitBtn">
+    </form>
+</div> 

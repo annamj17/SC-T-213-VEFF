@@ -1,0 +1,60 @@
+﻿@model List<Lab6.Models.Student>
+
+<div class="jumbotron">
+    <button id="ajax-btn" class="btn btn-success">Push</button>
+    <h2 id="ajax-str"></h2>
+</div>
+
+<div class="jumbotron">
+    <table id="studentList" class="table table-striped">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+        @foreach(var student in Model)
+        {
+          <tr>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+          </tr>
+        }
+    </table>
+    <br/>
+    <button id="secret-btn" class="btn btn-success">Get secret student!</button>
+</div>
+
+<div class="jumbotron">
+    <table id="table" class="table table-striped">
+        <tbody id="tbody">
+        </tbody>
+    </table>
+    <button id="concert-btn" class="btn btn-success">Get concerts!</button>
+</div>
+
+<div class="jumbotron">
+    <table id="student-list" class="table table-striped">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+        @foreach(var student in Model)
+        {
+          <tr>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+          </tr>
+        }
+    </table>
+    <form id="student-input">
+        <label class="control-label">Name:</label>
+        <input id="get-stud-name" type="text" class="form-control">
+
+        <label class="control-label">Age:</label>
+        <input id="get-stud-age" type="number" class="form-control">
+        </br>
+        <button type="submit" class="btn btn-success">Add student!</button>
+    </form>
+</div>
+
+
+
